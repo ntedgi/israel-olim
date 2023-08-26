@@ -1,0 +1,17 @@
+{
+  "name": "pdf-indexer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "pdf-text-extract": "^1.5.0",
+    "pdfjs-dist": "^3.9.179",
+    "textract": "^2.5.0"
+  }
+}
